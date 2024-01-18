@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently pursuing my Master of Science in Business Analytics at Santa Clara University.
+- 💬 I’m currently learning R, Python, SQL, Java, CSS, HTML and PHP.
+- 📫 How to reach me: https://www.linkedin.com/in/aitanahierrog/ 
+
+  
 <!--
 **aitanahierro/aitanahierro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
