@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently pursuing my Master of Science in Business Analytics at Santa Clara University.
-- 💬 Programming Languages: R, Python, SQL, Java, CSS, HTML and PHP.
+- 💬 Programming Languages: R, Python, SQL, HTML, CSS, PHP and JavaScript.
 - 📫 How to reach me: https://www.linkedin.com/in/aitanahierrog/ 
 
   
